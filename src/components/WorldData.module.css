@@ -1,0 +1,145 @@
+.bord {
+    /* border: 1px solid rgba(100, 100, 100, 0.8); */
+    margin:5px;
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: left;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.bord:hover {
+    /* border: 1px solid rgba(100, 100, 100, 0.8); */
+    margin:5px;
+    margin-bottom: 15px;
+    padding: 5px;
+    text-align: left;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+}
+
+.title{
+    font-size: 25px;
+    color:white;
+    background-color: rgba(100, 100, 100, 0.7);
+    padding: 5px;
+    text-align: center;
+    border-radius: 20px;
+}
+.confirmed{
+    color:red;
+    font-size: 20px;
+}
+.recovered{
+    color:green;
+    font-size: 20px;
+}
+.deaths{
+    color:rgb(62, 68, 66);
+    font-size: 20px;
+}
+.listitems{
+    position: relative;
+    color: brown;
+    cursor: pointer;
+}
+.listitems:hover{
+    position: relative;
+    color: brown;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-left: 5px;
+    padding-top: 20px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+}
+.cases{
+    position: absolute;
+    right: 5px;
+    color: red;
+}
+.borde {
+    text-align: left;
+    height: 1000px;
+    overflow:auto;
+}
+.flag {
+    height:10px;
+}
+.confirmed1{
+    color:red;
+    text-align: center;
+}
+.recovered1{
+    color:green;
+    text-align: center;
+}
+.deaths1{
+    color:rgb(62, 68, 66);
+    text-align: center;
+}
+
+.bord2 {
+    margin:5px;
+    margin-bottom: 15px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.bord2:hover {
+    margin:5px;
+    margin-bottom: 15px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+}
+
+.bord3 {
+    margin:5px;
+    margin-bottom: 15px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.bord3:hover {
+    margin:5px;
+    margin-bottom: 15px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+}
+.content{
+    font-size: 13px;
+}
+.title2{
+    font-size: 25px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 20px;
+    outline: 0px;
+    border:0px;
+}
+.borde2 {
+    text-align: left;
+    height: 1250px;
+    overflow:auto;
+}
+.title3 {
+    padding: 3px;
+    text-align: center;
+    border-radius: 10px;
+    outline: 0px;
+    border:0px;
+}
+.title4{
+    font-size: 18px;
+    color:white;
+    background-color: rgba(100, 100, 100, 0.7);
+    padding: 5px;
+    text-align: center;
+    border-radius: 20px;
+}
