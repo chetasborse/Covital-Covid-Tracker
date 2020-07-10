@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Demo
+
+
+![Farmers Market Finder Demo](demo2.gif)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
